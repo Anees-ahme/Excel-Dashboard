@@ -18,7 +18,7 @@ Created dynamic and interactive Excel dashboard. The dashboard showcase the most
     1. Convert the data into table
     2. Insert pivot table 
 
-    ![Data](/images/data.PNG)
+    ![Data](https://github.com/Anees-ahme/Excel-Dashboard/blob/main/Excel-Intractive-Dashboard/images/country_profit.PNG)
 
 2. **Profit By Country And Cookie Type**
 
