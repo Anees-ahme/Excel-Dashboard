@@ -7,7 +7,7 @@
 
 Created dynamic and interactive Excel dashboard. The dashboard showcase the most important information and various KPI that can be formed using the cookie company data. The major excel tool used is pivot table and pivot charts.
 
-![Dashboard](/images/dashboard.PNG)
+![Dashboard](https://github.com/Anees-ahme/Excel-Dashboard/blob/main/Excel-Intractive-Dashboard/images/dashboard.PNG)
 
 [Download the excel file](https://github.com/Anees-ahme/Excel-Interactive-Dashboard/blob/main/Excel%20Interactive%20Dashboard.xlsx)
 
@@ -18,34 +18,34 @@ Created dynamic and interactive Excel dashboard. The dashboard showcase the most
     1. Convert the data into table
     2. Insert pivot table 
 
-    ![Data](https://github.com/Anees-ahme/Excel-Dashboard/blob/main/Excel-Intractive-Dashboard/images/country_profit.PNG)
+    ![Data](https://github.com/Anees-ahme/Excel-Dashboard/blob/main/Excel-Intractive-Dashboard/images/data.PNG)
 
 2. **Profit By Country And Cookie Type**
 
     Insert the pivot table where country as the row labels, cookie name as the column labels and profit as the values in the pivot field list. Then apply bar pivot chart.
 
-    ![Profit By Country and Cookie Type](/images/country_profit.PNG)
+    ![Profit By Country and Cookie Type](https://github.com/Anees-ahme/Excel-Dashboard/blob/main/Excel-Intractive-Dashboard/images/country_profit.PNG)
 
 3. **Units Sold Each Month**
 
     Insert the pivot table where month as the row labels and units sold as the values. Then apply line chart.
 
-    ![Units Sold Each Month](/images/unit_sold_each_month.PNG)
+    ![Units Sold Each Month](https://github.com/Anees-ahme/Excel-Dashboard/blob/main/Excel-Intractive-Dashboard/images/unit_sold_each_month.PNG)
 
 4. **Product Wise Units Sold**
 
     Insert the pivot table where Product as the row labels and units sold as the values. Then the donut chart.
 
-    ![Product Wise Units Sold](/images/unit%20product%20sold.PNG)
+    ![Product Wise Units Sold](https://github.com/Anees-ahme/Excel-Dashboard/blob/main/Excel-Intractive-Dashboard/images/unit%20product%20sold.PNG)
 
 5. **Monthly Profit**
 
     Insert the pivot table where Month as row labels and Profit as values. Then insert the line chart.
 
-    ![Monthly Profit](/images/month_profit.PNG)
+    ![Monthly Profit](https://github.com/Anees-ahme/Excel-Dashboard/blob/main/Excel-Intractive-Dashboard/images/month_profit.PNG)
 
 6.  **Slicer**
 
     Select the chart and insert slicer from going to the pivot analyze. Connect slicer to all the pivot table.
 
-    ![Slicer](/images/slicer.PNG)
+    ![Slicer](https://github.com/Anees-ahme/Excel-Dashboard/blob/main/Excel-Intractive-Dashboard/images/slicer.PNG)
